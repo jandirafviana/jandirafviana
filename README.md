@@ -8,5 +8,7 @@ I've been working with technology for almost ten years, but my journey in the de
 - 🤔 I’m looking for help with Python and Software Testing Tools;
 - 🎮 Gaming is my passion;
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/j-viana-/);
+- ✔️ Scrum Foundation Professional Certificate;
+- ✔️ TOEFL ITP Certificate (Test of English as a Foreign Language);
 
-Every day I'm learning something new and I don't have any projects at the moment, but in the meanwhile I share my learnings here :)
+Every day I'm learning something new and I don't have any projects at the moment, but in the meanwhile I share my learnings here! :)
