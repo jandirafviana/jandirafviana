@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 My name is **Jandira**, I'm from Brazil (:brazil:) and I'm studying Information Systems. 
-I've been working with technology for seven years, but my journey in the dev world has started recently.
+I've been working with technology for eight years, but my journey in the dev world has started recently.
 
 - 🌱 I’m currently learning **Python** and **Cypress**;
 - 💻 Here is where I keep my [Python Exercises repository](https://github.com/jandirafviana/python-exercises);
